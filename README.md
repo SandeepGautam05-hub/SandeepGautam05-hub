@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Sandeep Gautam
+A passionate AIML Engineer student
+
+Email Me 👉 ✉️ **sandeepgautam2115@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AIML projects. 
+- 🌱 **I’m currently learning:** Machine Learning and Model Trainng.
+- 👯 **I’m looking to collaborate on:** Artificial Intelligence & Machine Learning Projects.
+- 🤔 **I’m looking for help with:** Facial Recognition Attendance System and Heart Disease Prediction Model.
+- 💬 **Ask me about:** Collaboration, Tech Support.
+- 📫 **How to reach me:** sandeepgautam2115@gmail.com
+- 😄 **Pronouns:** Sandeep Gautam
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Academic projects related to Artificial Intelligence, Machine Learning, and Data Science such as <br>Heart Diseases Risk Prediction Model and Facial Recognition Attendance System.   <br><br>🤝 I’m looking to collaborate on<br>AI/ML research projects, hackathons, and open-source contributions.<br><br>💛 I’m looking for help with<br>Deep learning optimization, real-world datasets, and model deployment techniques.<br><br>🌱 I’m currently learning<br>Neural networks, Natural Language Processing (NLP), and Cloud-based AI services and Machine Learning.<br><br>💬 Ask me about<br>Machine learning basics, Python programming, and data visualization.<br><br>⚡ Fun fact<br>I love exploring how AI can be applied in daily life — from recommendation systems to chatbots!
 
